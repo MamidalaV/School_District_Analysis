@@ -72,24 +72,43 @@ Raw data:
 
 ### Part 1 - District Summary
 
+Before:
 ![district_summary](https://user-images.githubusercontent.com/74985818/112769317-625a3700-8fee-11eb-8f03-dc69971d753d.png)
+
+After:
 ![district_summary_2](https://user-images.githubusercontent.com/74985818/112769436-ee6c5e80-8fee-11eb-97db-b53e33b278ac.png)
 
+At a high level, district level metrics after excluding the 9th grade for Thomas High School remain unaffected. The only noticable difference is that the average score for Math is reduced by 0.1% and all other metrics remain the same.
 
 ### Part 2 - School Summary
+Before:
 ![school_summary](https://user-images.githubusercontent.com/74985818/112770193-88360a80-8ff3-11eb-9632-8c9d23b21403.png)
+
+After:
 <img src="https://user-images.githubusercontent.com/74985818/112770378-8b7dc600-8ff4-11eb-94a2-d8051f926827.png" width="800">
 
+As per the highlighted fields above, there's a slight variance in the scoring for Thomas High School. 
+
+
 ### Math and Reading Scores by Grade
+Before:
 ![math_by_grade](https://user-images.githubusercontent.com/74985818/112769052-1064e180-8fed-11eb-955a-e141497aadeb.png)
+
+After:
 ![reading_by_grade](https://user-images.githubusercontent.com/74985818/112769055-1490ff00-8fed-11eb-8e26-7823ce76a215.png)
 
 ### Part 4 - Spending Summary
+Before:
 ![spending](https://user-images.githubusercontent.com/74985818/112769078-2a062900-8fed-11eb-953e-31e8195176c9.png)
+
+After:
 ![spending_2](https://user-images.githubusercontent.com/74985818/112769701-60917300-8ff0-11eb-9798-f3a6f9c81504.png)
 
 ### Part 5 - School Size Summary
+Before:
 ![size](https://user-images.githubusercontent.com/74985818/112771089-10b6aa00-8ff8-11eb-91c5-f98872ec16fd.png)
+
+After:
 ![size_2](https://user-images.githubusercontent.com/74985818/112771090-12806d80-8ff8-11eb-8fa1-ea59775428f8.png)
 
 ### Part 6 - School Type Summary
