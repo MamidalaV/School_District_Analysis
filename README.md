@@ -106,7 +106,7 @@ After:
 
 ### Part 5 - School Size Summary
 Before:
-![size](https://user-images.githubusercontent.com/74985818/112771089-10b6aa00-8ff8-11eb-91c5-f98872ec16fd.png)
+![size](https://user-images.githubusercontent.com/74985818/112771766-7f493700-8ffb-11eb-87be-c8c13d6af1a7.png)
 
 After:
 ![size_2](https://user-images.githubusercontent.com/74985818/112771090-12806d80-8ff8-11eb-8fa1-ea59775428f8.png)
