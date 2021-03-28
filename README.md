@@ -4,9 +4,10 @@
 The purpose of this analysis is to analyze data of high schools and its students to provide insights to the School District Board on the merits and spending of each school so the board can make informed decisions and plan ahead.
 
 ## RESULTS
+
 ### Analysis 1
 
-- List of Schools (All Data):
+- List of Schools (All data):
 ![School_List](https://user-images.githubusercontent.com/74985818/112771208-c7b32580-8ff8-11eb-895d-1b47223d162e.png)
 
 - List of students (sample set):
