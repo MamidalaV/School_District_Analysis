@@ -8,7 +8,6 @@ The purpose of this analysis is to analyze data of high schools and its students
 
 - List of schools (all data):
 ![School_List](https://user-images.githubusercontent.com/74985818/112768336-abf45300-8fe9-11eb-9ad5-82497d340be7.png)
-<img src="https://user-images.githubusercontent.com/74985818/112768336-abf45300-8fe9-11eb-9ad5-82497d340be7.png" width="100" height="100">
 
 - List of students (sample set):
 ![Student_list](https://user-images.githubusercontent.com/74985818/112768345-b44c8e00-8fe9-11eb-95c1-0611317af165.png)
@@ -69,19 +68,15 @@ The purpose of this analysis is to analyze data of high schools and its students
 ### Comparision between Analysis 1 and Analysis 2
 
 ### Part 1 - District Summary
-Analysis 1
+
 ![district_summary](https://user-images.githubusercontent.com/74985818/112769317-625a3700-8fee-11eb-8f03-dc69971d753d.png)
 ![district_summary_2](https://user-images.githubusercontent.com/74985818/112769436-ee6c5e80-8fee-11eb-97db-b53e33b278ac.png)
 
-Analysis 2
-
 
 ### Part 2 - School Summary
-Analysis 1
-![school_summary](https://user-images.githubusercontent.com/74985818/112768366-d34b2000-8fe9-11eb-8ad5-5e186de9e69f.png)
+![school_summary](https://user-images.githubusercontent.com/74985818/112769636-18725080-8ff0-11eb-8597-d7d1fda2c8b0.png)
+![school_summary_2](https://user-images.githubusercontent.com/74985818/112769638-1a3c1400-8ff0-11eb-9b51-06a2ea877803.png)
 
-Analysis 2
-![school_summary_2](https://user-images.githubusercontent.com/74985818/112768994-c1b74780-8fec-11eb-8fcb-bff496841b15.png)
 
 ### Math and Reading Scores by Grade
 ![math_by_grade](https://user-images.githubusercontent.com/74985818/112769052-1064e180-8fed-11eb-955a-e141497aadeb.png)
