@@ -7,7 +7,9 @@ The purpose of this analysis is to analyze data of high schools and its students
 
 ### Analysis 1
 
+Raw data:
 - List of Schools (All data):
+
 ![School_List](https://user-images.githubusercontent.com/74985818/112771208-c7b32580-8ff8-11eb-895d-1b47223d162e.png)
 
 - List of students (sample set):
