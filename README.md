@@ -7,7 +7,8 @@ The purpose of this analysis is to analyze data of high schools and its students
 ### Analysis 1
 
 - List of schools (all data):
-![School_List](https://user-images.githubusercontent.com/74985818/112768336-abf45300-8fe9-11eb-9ad5-82497d340be7.png)
+![School_List](https://user-images.githubusercontent.com/74985818/112771158-84f14d80-8ff8-11eb-874a-16ec321a6637.png)
+
 
 - List of students (sample set):
 ![Student_list](https://user-images.githubusercontent.com/74985818/112768345-b44c8e00-8fe9-11eb-95c1-0611317af165.png)
