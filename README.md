@@ -74,8 +74,8 @@ The purpose of this analysis is to analyze data of high schools and its students
 
 
 ### Part 2 - School Summary
-![school_summary](https://user-images.githubusercontent.com/74985818/112769636-18725080-8ff0-11eb-8597-d7d1fda2c8b0.png)
-![school_summary_2](https://user-images.githubusercontent.com/74985818/112769638-1a3c1400-8ff0-11eb-9b51-06a2ea877803.png)
+![school_summary](https://user-images.githubusercontent.com/74985818/112770193-88360a80-8ff3-11eb-9632-8c9d23b21403.png)
+![school_summary2](https://user-images.githubusercontent.com/74985818/112770198-89ffce00-8ff3-11eb-8760-2c9fc1bc67ae.png)
 
 
 ### Math and Reading Scores by Grade
