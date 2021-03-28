@@ -29,7 +29,7 @@ The purpose of this analysis is to analyze data of high schools and its students
 ![district_summary](https://user-images.githubusercontent.com/74985818/112768360-cd553f00-8fe9-11eb-8b65-88bd4a85e9de.png)
 
 ### Part 2 - School Summary
-- The merged DataFrame is further sliced to get the following data to create a new dataframe for **School Summary**:
+- The merged DataFrame is also sliced to get the following data to create a new dataframe for **School Summary**:
   1. Type of school
   2. Total students per school
   3. Total budget per school
@@ -42,7 +42,7 @@ The purpose of this analysis is to analyze data of high schools and its students
 ![school_summary](https://user-images.githubusercontent.com/74985818/112768366-d34b2000-8fe9-11eb-8ad5-5e186de9e69f.png)
 
 ### Part 3 - Spending Summary
-- The merged DataFrame is also sliced to get the following data to create a new dataframe for **Spending Summary** based on spending:
+- The merged DataFrame is further sliced to get the following data to create a new dataframe for **Spending Summary** based on spending:
   1. Average Math Score
   2. Avearge Reading Score
   3. % of students passing Math
