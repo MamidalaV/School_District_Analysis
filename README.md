@@ -75,24 +75,19 @@ The purpose of this analysis is to analyze data of high schools and its students
 
 ### Part 2 - School Summary
 ![school_summary](https://user-images.githubusercontent.com/74985818/112770193-88360a80-8ff3-11eb-9632-8c9d23b21403.png)
-![school_summary_2](https://user-images.githubusercontent.com/74985818/112770378-8b7dc600-8ff4-11eb-94a2-d8051f926827.png)
-
+<img src="https://user-images.githubusercontent.com/74985818/112770378-8b7dc600-8ff4-11eb-94a2-d8051f926827.png" width="800">
 
 ### Math and Reading Scores by Grade
 ![math_by_grade](https://user-images.githubusercontent.com/74985818/112769052-1064e180-8fed-11eb-955a-e141497aadeb.png)
 ![reading_by_grade](https://user-images.githubusercontent.com/74985818/112769055-1490ff00-8fed-11eb-8e26-7823ce76a215.png)
-
 
 ### Part 4 - Spending Summary
 ![spending](https://user-images.githubusercontent.com/74985818/112769078-2a062900-8fed-11eb-953e-31e8195176c9.png)
 ![spending_2](https://user-images.githubusercontent.com/74985818/112769701-60917300-8ff0-11eb-9798-f3a6f9c81504.png)
 
 ### Part 5 - School Size Summary
-Analysis 1
-
-Analysis 2
+![size](https://user-images.githubusercontent.com/74985818/112771089-10b6aa00-8ff8-11eb-91c5-f98872ec16fd.png)
+![size_2](https://user-images.githubusercontent.com/74985818/112771090-12806d80-8ff8-11eb-8fa1-ea59775428f8.png)
 
 ### Part 6 - School Type Summary
-Analysis 1
 
-Analysis 2
