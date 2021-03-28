@@ -16,7 +16,7 @@ The purpose of this analysis is to analyze data of high schools and its students
 ![merged](https://user-images.githubusercontent.com/74985818/112768353-c62e3100-8fe9-11eb-85a2-fabe75bd6d33.png)
 
 
-### Part 1 - District Summary
+### District Summary
 - The merged DataFrame is then sliced to get the following data to create a new dataframe for **District Summary**:
   1. Total Schools in the district
   2. Total students in the district
@@ -28,7 +28,7 @@ The purpose of this analysis is to analyze data of high schools and its students
   8. Overall Passing %
 ![district_summary](https://user-images.githubusercontent.com/74985818/112768360-cd553f00-8fe9-11eb-8b65-88bd4a85e9de.png)
 
-### Part 2 - School Summary
+### School Summary
 - The merged DataFrame is also sliced to get the following data to create a new dataframe for **School Summary**:
   1. Type of school
   2. Total students per school
@@ -40,7 +40,7 @@ The purpose of this analysis is to analyze data of high schools and its students
   8. % of students passing Reading
   9. Overall Passing %
 
-### Part 3 - Spending Summary
+### Spending Summary
 - The merged DataFrame is further sliced to get the following data to create a new dataframe for **Spending Summary** based on spending:
   1. Average Math Score
   2. Avearge Reading Score
@@ -49,11 +49,11 @@ The purpose of this analysis is to analyze data of high schools and its students
   5. Overall Passing %
 ![spending](https://user-images.githubusercontent.com/74985818/112768584-a9462d80-8fea-11eb-8d0e-1a886d23d7a8.png)
 
-### Part 4 - School Size Summary
+### School Size Summary
 - The schools are bucketed based on their size:
 ![size](https://user-images.githubusercontent.com/74985818/112768615-cb3fb000-8fea-11eb-98de-6e888f911e3f.png)
 
-### Part 5 - School Type Summary
+### School Type Summary
 - The merged DataFrame is also sliced to get the following data to create a new dataframe for **Type Summary** based on type:
   1. Average Math Score
   2. Avearge Reading Score
@@ -75,7 +75,7 @@ The purpose of this analysis is to analyze data of high schools and its students
 
 ### Part 2 - School Summary
 ![school_summary](https://user-images.githubusercontent.com/74985818/112770193-88360a80-8ff3-11eb-9632-8c9d23b21403.png)
-![school_summary2](https://user-images.githubusercontent.com/74985818/112770198-89ffce00-8ff3-11eb-8760-2c9fc1bc67ae.png)
+![school_summary_2](https://user-images.githubusercontent.com/74985818/112770378-8b7dc600-8ff4-11eb-94a2-d8051f926827.png)
 
 
 ### Math and Reading Scores by Grade
@@ -84,10 +84,7 @@ The purpose of this analysis is to analyze data of high schools and its students
 
 
 ### Part 4 - Spending Summary
-Analysis 1
 ![spending](https://user-images.githubusercontent.com/74985818/112769078-2a062900-8fed-11eb-953e-31e8195176c9.png)
-
-Analysis 2
 ![spending_2](https://user-images.githubusercontent.com/74985818/112769701-60917300-8ff0-11eb-9798-f3a6f9c81504.png)
 
 ### Part 5 - School Size Summary
