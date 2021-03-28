@@ -89,13 +89,25 @@ After:
 
 As per the highlighted fields above, there's a slight variance in the scoring for Thomas High School. 
 
-
-### Math and Reading Scores by Grade
+### Part 2 - School Summary
 Before:
-![math_by_grade](https://user-images.githubusercontent.com/74985818/112769052-1064e180-8fed-11eb-955a-e141497aadeb.png)
+![school_summary](https://user-images.githubusercontent.com/74985818/112770193-88360a80-8ff3-11eb-9632-8c9d23b21403.png)
 
 After:
-![reading_by_grade](https://user-images.githubusercontent.com/74985818/112769055-1490ff00-8fed-11eb-8e26-7823ce76a215.png)
+<img src="https://user-images.githubusercontent.com/74985818/112770378-8b7dc600-8ff4-11eb-94a2-d8051f926827.png" width="800">
+
+As per the highlighted fields above, there's a slight variance in the scoring for Thomas High School. 
+
+### Part 3 - Relative to other schools
+Before (Top 5 Schools):
+![Top5_1](https://user-images.githubusercontent.com/74985818/112772307-08616d80-8ffe-11eb-8dd1-2a242ca31d72.png)
+
+After (Top 5 Schools):
+![Top5_2](https://user-images.githubusercontent.com/74985818/112772321-1911e380-8ffe-11eb-8862-db83ed5ace4c.png)
+
+Though there is change to the performance of students in Thomas High School, the overall performance still has this school as Top 2nd school in the district.
+
+No change to data from earlier analysis.
 
 ### Part 4 - Spending Summary
 Before:
@@ -104,6 +116,8 @@ Before:
 After:
 ![spending_2](https://user-images.githubusercontent.com/74985818/112769701-60917300-8ff0-11eb-9798-f3a6f9c81504.png)
 
+No change to data from earlier analysis.
+
 ### Part 5 - School Size Summary
 Before:
 ![size](https://user-images.githubusercontent.com/74985818/112771766-7f493700-8ffb-11eb-87be-c8c13d6af1a7.png)
@@ -111,5 +125,14 @@ Before:
 After:
 ![size_2](https://user-images.githubusercontent.com/74985818/112771090-12806d80-8ff8-11eb-8fa1-ea59775428f8.png)
 
+No change to data from earlier analysis.
+
 ### Part 6 - School Type Summary
 
+Before:
+![type](https://user-images.githubusercontent.com/74985818/112771983-5ffed980-8ffc-11eb-9cd1-e3680134ea62.png)
+
+After: 
+![type_2](https://user-images.githubusercontent.com/74985818/112771985-63926080-8ffc-11eb-9f03-1f8cf3640d40.png)
+
+No change to data from earlier analysis.
