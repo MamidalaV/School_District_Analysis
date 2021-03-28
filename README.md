@@ -88,7 +88,7 @@ Analysis 1
 ![spending](https://user-images.githubusercontent.com/74985818/112769078-2a062900-8fed-11eb-953e-31e8195176c9.png)
 
 Analysis 2
-
+![spending_2](https://user-images.githubusercontent.com/74985818/112769701-60917300-8ff0-11eb-9798-f3a6f9c81504.png)
 
 ### Part 5 - School Size Summary
 Analysis 1
