@@ -66,9 +66,31 @@ Raw data:
 ![type](https://user-images.githubusercontent.com/74985818/112768633-e0b4da00-8fea-11eb-98c3-2e0596b4d1c6.png)
 
 ### Analysis 2
-- Due to the evidence of academic dishonesty, Math and Reading scores for 9th Grade students of Thomas High School were disregarded. Results are below:
+- Due to the evidence of academic dishonesty, Math and Reading scores for 9th Grade students of Thomas High School were disregarded. 
 
-### Comparision between Analysis 1 and Analysis 2
+Using the LOC method to change Reading and Math scores for 9th graders in Thomas High School:
+
+`student_data_df.loc[(student_data_df['school_name'] == "Thomas High School") & 
+                    (student_data_df['grade'] == "9th"), ['reading_score']] = np.nan`
+
+
+`student_data_df.loc[(student_data_df['school_name'] == "Thomas High School") & 
+                    (student_data_df['grade'] == "9th"), ['math_score']] = np.nan`
+
+
+After excluding the rows with above condition, student count has been recalculated:
+
+`ths_ninth_count = school_data_complete_df.loc[
+    (school_data_complete_df["school_name"] == "Thomas High School") & 
+    (school_data_complete_df["grade"] == "9th"),["Student ID"]].count()`
+
+`student_count = school_data_complete_df["Student ID"].count()`
+
+`# Thomas High School from the total student count to get the new total student count.
+new_student_count = student_count - ths_ninth_count`
+
+
+### Results after Comparing Analysis 1 and Analysis 2
 
 ### Part 1 - District Summary
 
@@ -146,6 +168,9 @@ After:
 No change to data from earlier analysis.
 
 ## Summary
+
+Below are the 4 noticable changes to the data after excluding Math and Reading scores for 9th grade in Thomas High School.
+
 1.The average math exam score for the district was one-tenth of a percentage point lower.
 
 2.The percentage of students who passed the math exam was lowered by two-tenths of a percentage point.
