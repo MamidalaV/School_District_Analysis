@@ -133,7 +133,6 @@ After (Top 5 Schools):
 
 Though there is change to the performance of students in Thomas High School, the overall performance still has this school as Top 2nd school in the district.
 
-No change to data from earlier analysis.
 
 ### Part 4 - Spending Summary
 
@@ -173,17 +172,26 @@ No change to data from earlier analysis.
 
 ## Summary
 
+Below are the changes to metrics from District Summary:
+
 - At a disctrict level, 
     - Average Math Score has reduced by 0.1%
     - Average Reading Score remains unchanged
     - % Passing Math has reduced by 0.2%
     - % Passing Reading remains unchanged
-    - % Overall Passing remains the same.
+    - % Overall Passing remains the same
+
+Below are the changes to metrics from School Summary:
+
+- At a school level, below are the changes for Thomas High School
+    - Average Math Score reduced by 0.06%
+    - Average Reading Score increased by 0.05%
+    - % Passing Math has reduced by 0.08%
+    - % Passing Reading reduced by 0.29%
+    - % Overall Passing reduced by 0.32%
 
 
-
-
-Below are the 4 noticable changes to the data after excluding Math and Reading scores for 9th grade in Thomas High School.
+Finally, below are the 4 noticable changes to the data after excluding Math and Reading scores for 9th grade in Thomas High School.
 
 1.The average math exam score for the district was one-tenth of a percentage point lower.
 
