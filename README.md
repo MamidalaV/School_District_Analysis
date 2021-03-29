@@ -3,9 +3,9 @@
 ## PURPOSE:
 The purpose of this analysis is to analyze data of high schools and its students to provide insights to the School District Board on the merits and spending of each school so the board can make informed decisions and plan ahead.
 
-## RESULTS
+### RESULTS
 
-### Analysis 1
+## Analysis 1
 
 Raw data:
 - List of Schools (All data):
@@ -65,7 +65,7 @@ Raw data:
   5. Overall Passing %
 ![type](https://user-images.githubusercontent.com/74985818/112768633-e0b4da00-8fea-11eb-98c3-2e0596b4d1c6.png)
 
-### Analysis 2
+## Analysis 2
 - Due to the evidence of academic dishonesty, Math and Reading scores for 9th Grade students of Thomas High School were disregarded. 
 
 Using the LOC method to change Reading and Math scores for 9th graders in Thomas High School:
