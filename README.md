@@ -132,7 +132,7 @@ No change to data from earlier analysis.
 Before:
 ![type](https://user-images.githubusercontent.com/74985818/112771983-5ffed980-8ffc-11eb-9cd1-e3680134ea62.png)
 
-After: 
+After:
 ![type_2](https://user-images.githubusercontent.com/74985818/112771985-63926080-8ffc-11eb-9f03-1f8cf3640d40.png)
 
 No change to data from earlier analysis.
