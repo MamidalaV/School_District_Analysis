@@ -99,9 +99,13 @@ Before:
 
 After:
 
-![district_summary_2](https://user-images.githubusercontent.com/74985818/112769436-ee6c5e80-8fee-11eb-97db-b53e33b278ac.png)
+![district_summary_3](https://user-images.githubusercontent.com/74985818/112775228-46648e80-900a-11eb-8057-f035c3c26365.png)
 
-At a high level, district level metrics after excluding the 9th grade for Thomas High School remain unaffected. The only noticable difference is that the average score for Math is reduced by 0.1% and all other metrics remain the same.
+Average Math Score has reduced by 0.1%
+Average Reading Score remains unchanged
+% Passing Math has reduced by 0.2%
+% Passing Reading remains unchanged
+% Overall Passing remains the same.
 
 ### Part 2 - School Summary
 
@@ -111,9 +115,10 @@ Before:
 
 After:
 
-<img src="https://user-images.githubusercontent.com/74985818/112770378-8b7dc600-8ff4-11eb-94a2-d8051f926827.png" width="800">
+<img src="https://user-images.githubusercontent.com/74985818/112775667-909a3f80-900b-11eb-853c-ae7443b85b90.png" width="800">
 
-As per the highlighted fields above, there's a slight variance in the scoring for Thomas High School. 
+
+As per the highlighted fields within the above image, there is a huge variance to the scores and passing % for Thomas High School due to this change.
 
 
 ### Part 3 - Relative to other schools
@@ -167,6 +172,16 @@ After:
 No change to data from earlier analysis.
 
 ## Summary
+
+- At a disctrict level, 
+    - Average Math Score has reduced by 0.1%
+    - Average Reading Score remains unchanged
+    - % Passing Math has reduced by 0.2%
+    - % Passing Reading remains unchanged
+    - % Overall Passing remains the same.
+
+
+
 
 Below are the 4 noticable changes to the data after excluding Math and Reading scores for 9th grade in Thomas High School.
 
