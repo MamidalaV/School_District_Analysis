@@ -81,6 +81,7 @@ After:
 At a high level, district level metrics after excluding the 9th grade for Thomas High School remain unaffected. The only noticable difference is that the average score for Math is reduced by 0.1% and all other metrics remain the same.
 
 ### Part 2 - School Summary
+
 Before:
 ![school_summary](https://user-images.githubusercontent.com/74985818/112770193-88360a80-8ff3-11eb-9632-8c9d23b21403.png)
 
@@ -90,6 +91,7 @@ After:
 As per the highlighted fields above, there's a slight variance in the scoring for Thomas High School. 
 
 ### Part 2 - School Summary
+
 Before:
 ![school_summary](https://user-images.githubusercontent.com/74985818/112770193-88360a80-8ff3-11eb-9632-8c9d23b21403.png)
 
@@ -99,6 +101,7 @@ After:
 As per the highlighted fields above, there's a slight variance in the scoring for Thomas High School. 
 
 ### Part 3 - Relative to other schools
+
 Before (Top 5 Schools):
 ![Top5_1](https://user-images.githubusercontent.com/74985818/112772307-08616d80-8ffe-11eb-8dd1-2a242ca31d72.png)
 
@@ -110,6 +113,7 @@ Though there is change to the performance of students in Thomas High School, the
 No change to data from earlier analysis.
 
 ### Part 4 - Spending Summary
+
 Before:
 ![spending](https://user-images.githubusercontent.com/74985818/112769078-2a062900-8fed-11eb-953e-31e8195176c9.png)
 
@@ -119,6 +123,7 @@ After:
 No change to data from earlier analysis.
 
 ### Part 5 - School Size Summary
+
 Before:
 ![size](https://user-images.githubusercontent.com/74985818/112771766-7f493700-8ffb-11eb-87be-c8c13d6af1a7.png)
 
