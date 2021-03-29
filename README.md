@@ -86,8 +86,7 @@ After excluding the rows with above condition, student count has been recalculat
 
 `student_count = school_data_complete_df["Student ID"].count()`
 
-`# Thomas High School from the total student count to get the new total student count.
-new_student_count = student_count - ths_ninth_count`
+`new_student_count = student_count - ths_ninth_count`
 
 
 ### Results after Comparing Analysis 1 and Analysis 2
