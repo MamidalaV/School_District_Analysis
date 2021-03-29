@@ -101,11 +101,11 @@ After:
 
 ![district_summary_3](https://user-images.githubusercontent.com/74985818/112775228-46648e80-900a-11eb-8057-f035c3c26365.png)
 
-Average Math Score has reduced by 0.1%
-Average Reading Score remains unchanged
-% Passing Math has reduced by 0.2%
-% Passing Reading remains unchanged
-% Overall Passing remains the same.
+1. Average Math Score has reduced by 0.1%
+2. Average Reading Score remains unchanged
+3. % Passing Math has reduced by 0.2%
+4. % Passing Reading remains unchanged
+5. % Overall Passing remains the same.
 
 ### Part 2 - School Summary
 
@@ -115,10 +115,10 @@ Before:
 
 After:
 
-<img src="https://user-images.githubusercontent.com/74985818/112775667-909a3f80-900b-11eb-853c-ae7443b85b90.png" width="800">
+<img src="https://user-images.githubusercontent.com/74985818/112775983-68f7a700-900c-11eb-9e7d-247a51e7ce29.png" width="800">
 
 
-As per the highlighted fields within the above image, there is a huge variance to the scores and passing % for Thomas High School due to this change.
+As per the highlighted fields within the above image, there is a not a huge variance to the scores and passing % for Thomas High School due to this change.
 
 
 ### Part 3 - Relative to other schools
