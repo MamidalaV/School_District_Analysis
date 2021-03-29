@@ -134,8 +134,8 @@ After:
 No change to data from earlier analysis.
 
 ## Summary
-The average math exam score for the district was one-tenth of a percentage point lower.
-The percentage of students who passed the math exam was lowered by two-tenths of a percentage point.
-The percentage of students who passed the reading exam was lowered by three-tenths of a percentage point.
-The percentage of students who passed both the math and reading exams for the districts was lowered by one-tenth of a percentage point.
+1.The average math exam score for the district was one-tenth of a percentage point lower.
+2.The percentage of students who passed the math exam was lowered by two-tenths of a percentage point.
+3.The percentage of students who passed the reading exam was lowered by three-tenths of a percentage point.
+4.The percentage of students who passed both the math and reading exams for the districts was lowered by one-tenth of a percentage point.
 
