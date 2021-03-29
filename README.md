@@ -90,15 +90,6 @@ After:
 
 As per the highlighted fields above, there's a slight variance in the scoring for Thomas High School. 
 
-### Part 2 - School Summary
-
-Before:
-![school_summary](https://user-images.githubusercontent.com/74985818/112770193-88360a80-8ff3-11eb-9632-8c9d23b21403.png)
-
-After:
-<img src="https://user-images.githubusercontent.com/74985818/112770378-8b7dc600-8ff4-11eb-94a2-d8051f926827.png" width="800">
-
-As per the highlighted fields above, there's a slight variance in the scoring for Thomas High School. 
 
 ### Part 3 - Relative to other schools
 
